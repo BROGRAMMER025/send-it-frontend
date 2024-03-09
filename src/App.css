@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-image: url('/home/allan/szymon-fischer-9Cwg1ym3SCs-unsplash.jpg  '); 
+  background-size: cover;
+  background-position: center;
+}
+
+.app-container {
+  display: flex;
+  position: relative;
+}
+
+.contact-form-container {
+  flex: 1;
+}
+
+.contact-sidebar-container {
+  flex: 1;
+}

@@ -1,0 +1,28 @@
+
+
+.contact-sidebar {
+    background-color: #007bff; 
+    color: #fff; 
+    padding: 20px; 
+    border-radius: 10px; 
+    width: 30%; 
+    min-width: 300px; 
+    margin-right: 0px; 
+  }
+  
+  .contact-sidebar h3 {
+    font-size: 24px; 
+  }
+  
+  .contact-sidebar p {
+    font-size: 18px; 
+  }
+  
+  .contact-info {
+    margin-bottom: 15px; 
+  }
+  
+  .contact-info svg {
+    margin-right: 10px; 
+  }
+  
